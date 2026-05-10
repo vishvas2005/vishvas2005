@@ -9,7 +9,7 @@
 </h3>
 
 <div align="center">
-  <a href="mailto:vishvasgupta788@gmail.com">
+  <a  href="mailto:vishvasgupta788@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/vishvas-gupta">
@@ -21,6 +21,10 @@
   <a href="https://github.com/vishvas2005">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  <a href="https://leetcode.com/u/vishvas_gupta" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+</a>
 </div>
 
 <br/>
